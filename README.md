@@ -1,1 +1,3 @@
 # PassMan
+
+Simple password manager
